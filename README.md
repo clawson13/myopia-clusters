@@ -28,7 +28,7 @@ Pandas, Scikit-learn, NumPy, Matplotlib, Jupyter Notebook
 
 ## Source
 
-* Reduced dataset from ![Orinda Longitudinal Study of Myopia conducted by the US National Eye Institute](https://clinicaltrials.gov/ct2/show/NCT00000169)
+* Reduced dataset from [Orinda Longitudinal Study of Myopia conducted by the US National Eye Institute](https://clinicaltrials.gov/ct2/show/NCT00000169)
 
 ## Contact
 E-mail: clawson131@gmail.com<br>
